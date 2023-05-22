@@ -5,7 +5,7 @@ categories: ctf, cscg
 author:
 - Gehim
 ---
-This year i participated in the [CSCG][CSCG] and managed to qualify for the finals again. All participants were required to submit three writeups to be eligible for the final round. I chooe this challenge because despite its simplicity only 32 people were able to solve it. Thus, i hope this writeup serves as an educational resource for newer players.
+This year i participated in the [CSCG][CSCG] and managed to qualify for the finals again. All participants were required to submit three writeups to be eligible for the final round. I chose this challenge because despite its simplicity only 32 people were able to solve it. Thus, i hope this writeup serves as an educational resource for newer players.
 
 # Overview
 - Category: Web
