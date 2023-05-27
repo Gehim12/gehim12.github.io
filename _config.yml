@@ -20,6 +20,8 @@ plugins:
 
 minima:
   skin: dark
+
+show_excerpts: true
   # Minima date format.
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
   #
